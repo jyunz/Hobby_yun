@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.roy.hobby_yun.R
 
-class historyFragment : Fragment() {
+class HistoryFragment : Fragment() {
 
 //    fragment_history.xml과 연결하는 onCreateView 함수를 오버라이딩.
 
